@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @asanchezp87
 - 👀 I’m interested in learning how to recruit top IT talents on GitHub
-- 🌱 I’m currently learning HTML, CSS, and new tools to recruit top IT talents
+- 🌱 I’m currently learning HTML, CSS, JS, and new tools to recruit top IT talents
 - 💞️ I’m looking to collaborate on helping people find a good job
-- 📫 How to reach me send me a message
+- 📫 How to reach me: send me a message
 - 😄 Pronouns: She, her, hers
 - ⚡ Fun fact: I love cats and yarn. 
 
